@@ -20,7 +20,7 @@ branches:
   - "/^v[0-9]/"
 language: scala
 scala:
-- 2.11.8
+- 2.12.10
 jdk:
 - oraclejdk8
 sudo: false
